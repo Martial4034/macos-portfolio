@@ -26,6 +26,9 @@ dependencies:
   '@rooks/use-raf':
     specifier: ^4.11.2
     version: 4.11.2
+  '@vercel/analytics':
+    specifier: ^1.2.2
+    version: 1.2.2(react@18.3.1)
   date-fns:
     specifier: ^3.6.0
     version: 3.6.0
@@ -1738,6 +1741,21 @@ packages:
     transitivePeerDependencies:
       - rollup
     dev: true
+
+  /@vercel/analytics@1.2.2(react@18.3.1):
+    resolution: {integrity: sha512-X0rctVWkQV1e5Y300ehVNqpOfSOufo7ieA5PIdna8yX/U7Vjz0GFsGf4qvAhxV02uQ2CVt7GYcrFfddXXK2Y4A==}
+    peerDependencies:
+      next: '>= 13'
+      react: ^18 || ^19
+    peerDependenciesMeta:
+      next:
+        optional: true
+      react:
+        optional: true
+    dependencies:
+      react: 18.3.1
+      server-only: 0.0.1
+    dev: false
 
   /@vitejs/plugin-react@4.2.1(vite@5.2.10):
     resolution: {integrity: sha512-oojO9IDc4nCUUi8qIR11KoQm0XFFLIwsRBwHRR4d/88IWghn1y6ckz/bJ8GHDCsYEJee8mDzqtJxh15/cisJNQ==}
@@ -5332,6 +5350,10 @@ packages:
     dependencies:
       lru-cache: 6.0.0
     dev: true
+
+  /server-only@0.0.1:
+    resolution: {integrity: sha512-qepMx2JxAa5jjfzxG79yPPq+8BuFToHd1hm7kI+Z4zAq1ftQiP7HcxMhDDItrbtwVeLg/cY2JnKnrcFkmiswNA==}
+    dev: false
 
   /set-function-length@1.2.2:
     resolution: {integrity: sha512-pgRc4hJ4/sNjWCSS9AmnS40x3bNMDTknHgL5UaMBTMyJnU90EgWh1Rz+MC9eFu4BuN/UwZjKQuY/1v3rM7HMfg==}

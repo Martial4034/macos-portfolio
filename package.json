@@ -4,8 +4,8 @@
   "type": "module",
   "scripts": {
     "build": "vite build",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "vite --host",
     "lint": "eslint .",
     "prepare": "husky",
@@ -24,6 +24,7 @@
     "@milkdown/preset-gfm": "^7.3.6",
     "@milkdown/react": "^7.3.6",
     "@rooks/use-raf": "^4.11.2",
+    "@vercel/analytics": "^1.2.2",
     "date-fns": "^3.6.0",
     "dotenv": "^16.4.5",
     "env": "^0.0.2",
