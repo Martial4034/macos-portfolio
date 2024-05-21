@@ -4,6 +4,8 @@
   "type": "module",
   "scripts": {
     "build": "vite build",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build",
     "dev": "vite --host",
     "lint": "eslint .",
     "prepare": "husky",
@@ -49,6 +51,7 @@
     "@unocss/reset": "^0.59.4",
     "@vitejs/plugin-react": "^4.2.1",
     "eslint": "^8.57.0",
+    "gh-pages": "^6.1.1",
     "husky": "^9.0.11",
     "lint-staged": "^15.2.2",
     "pnpm": "^9.0.6",
