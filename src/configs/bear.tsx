@@ -8,14 +8,14 @@ const bear: BearData[] = [
     md: [
       {
         id: "about-me",
-        title: "About Me",
+        title: "Présentation",
         file: "markdown/about-me.md",
         icon: "i-la:dragon",
-        excerpt: "Hey there! I'm a dragon lost in human world..."
+        excerpt: "Salut ! Je me présente, moi c'est Martial..."
       },
       {
-        id: "github-stats",
-        title: "Github Stats",
+        id: "career",
+        title: "Mon parcours",
         file: "markdown/github-stats.md",
         icon: "i-icon-park-outline:github",
         excerpt: "Here are some status about my github account..."
@@ -24,6 +24,13 @@ const bear: BearData[] = [
         id: "about-site",
         title: "About This Site",
         file: "markdown/about-site.md",
+        icon: "i-octicon:browser",
+        excerpt: "Something about this personal portfolio site..."
+      },
+      {
+        id: "about-site",
+        title: "About This Site copy",
+        file: "markdown/about-site-copy.md",
         icon: "i-octicon:browser",
         excerpt: "Something about this personal portfolio site..."
       }

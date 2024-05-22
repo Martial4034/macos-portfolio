@@ -24,7 +24,7 @@ export const createSystemSlice: StateCreator<SystemSlice> = (set) => ({
   brightness: 80,
   wifi: true,
   bluetooth: true,
-  airdrop: true,
+  airdrop: false,
   fullscreen: false,
   toggleDark: () =>
     set((state) => {

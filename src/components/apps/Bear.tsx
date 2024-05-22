@@ -68,9 +68,8 @@ const Sidebar = ({ cur, setMidBar }: SidebarProps) => {
         {bear.map((item, index) => (
           <li
             key={`bear-sidebar-${item.id}`}
-            className={`pl-6 h-8 hstack cursor-default ${
-              cur === index ? "bg-red-500" : "bg-transparent"
-            } ${cur === index ? "" : "hover:bg-gray-600"}`}
+            className={`pl-6 h-8 hstack cursor-default ${cur === index ? "bg-red-500" : "bg-transparent"
+              } ${cur === index ? "" : "hover:bg-gray-600"}`}
             onClick={() => setMidBar(item.md, index)}
           >
             <span className={item.icon} />
@@ -88,11 +87,10 @@ const Middlebar = ({ items, cur, setContent }: MiddlebarProps) => {
       {items.map((item: BearMdData, index: number) => (
         <li
           key={`bear-midbar-${item.id}`}
-          className={`h-24 flex flex-col cursor-default border-l-2 ${
-            cur === index
+          className={`h-24 flex flex-col cursor-default border-l-2 ${cur === index
               ? "border-red-500 bg-white dark:bg-gray-900"
               : "border-transparent bg-transparent"
-          } hover:(bg-white dark:bg-gray-900)`}
+            } hover:(bg-white dark:bg-gray-900)`}
           onClick={() => setContent(item.id, item.file, index)}
         >
           <div className="h-8 mt-3 hstack">
@@ -214,11 +212,15 @@ const Bear = () => {
       contentURL: url
     });
   };
+  // Style css 
 
   return (
     <div className="bear font-avenir flex h-full">
       <div className="w-44 overflow-auto bg-gray-700">
         <Sidebar cur={state.curSidebar} setMidBar={setMidBar} />
+        <div className="avatar-container">
+          <img src="./img/icons/bear.png" alt="Avatar" className="avatar" />
+        </div>     
       </div>
       <div className="w-60 overflow-auto" bg="gray-50 dark:gray-800" border="r c-300">
         <Middlebar

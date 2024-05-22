@@ -126,3 +126,15 @@
 .bear .markdown table tr {
   @apply border-t border-gray-300 bg-transparent;
 }
+
+.avatar-container {
+  padding: 15px;
+  text-align: center; /* Centre l'image horizontalement */
+}
+
+.avatar {
+  width: auto; /* Garde les proportions originales */
+  max-width: 95%; /* Réduit la taille de l'image */
+  height: auto; /* Ajuste la hauteur automatiquement */
+  margin-top: 10%; /* Espace en bas de l'image */
+}
