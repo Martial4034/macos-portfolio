@@ -14,11 +14,11 @@ const bear: BearData[] = [
         excerpt: "Salut ! Je me présente, moi c'est Martial..."
       },
       {
-        id: "career",
-        title: "Mon parcours",
-        file: "markdown/github-stats.md",
-        icon: "i-icon-park-outline:github",
-        excerpt: "Here are some status about my github account..."
+        id: "contact-me",
+        title: "Contactez moi",
+        file: "markdown/contact.md",
+        icon: "i-ri:newspaper-fill",
+        excerpt: "N'hesite pas a me contactez par m..."
       },
       {
         id: "about-site",

@@ -31,25 +31,3 @@ Durant l'été 2023, j'ai réalisé la [**PISCINE** de l'**école 42**](https://
 J'ai réalisé un [Bac Technologique **STI2D**](https://www.education.gouv.fr/reussir-au-lycee/le-baccalaureat-technologique-1916#sti2d) (*sciences et Technologies de l'Industrie et du Développement Durable*), option [**SIN**](https://www.albertdemun.eu/formations/lycee/bac-sti2d-sin/) (Système d’Information et Numérique) [aux Lazaristes La Salle](https://www.auxlazaristeslasalle.fr/lycee/nos-offres-de-formation/premiere-et-terminale-technologique/la-serie-sti2d/) à Lyon.
 
 
-
-
-
-## Contact
-
-Contact me by:
-
-- Email: [m.laubier@eleve.leschartreux.net](mailto:m.laubier@eleve.leschartreux.net)
-- Github: [@Martial4034](https://github.com/Martial4034)
-- Linkedin: [xiaohan-zou](https://www.linkedin.com/in/xiaohan-zou)
-- [Google Scholar](https://scholar.google.com/citations?user=RuW6xgMAAAAJ)
-- 知乎: [@西伯利亚大恶龙](https://www.zhihu.com/people/chao-neng-gui-su)
-- Personal Website: [zxh.me](https://zxh.me)
-
-
-## Résumé
-
-- Normal version: [English](https://zxh.me/files/cv/en.pdf) / [中文](https://zxh.me/files/cv/cn.pdf)
-
-  中文版的更新很可能不及时
-
-- Interesting version: [portfolio.zxh.me](https://portfolio.zxh.me) / [resume.zxh.io](https://resume.zxh.io)
