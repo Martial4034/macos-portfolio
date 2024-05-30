@@ -31,3 +31,20 @@ Durant l'été 2023, j'ai réalisé la [**PISCINE** de l'**école 42**](https://
 J'ai réalisé un [Bac Technologique **STI2D**](https://www.education.gouv.fr/reussir-au-lycee/le-baccalaureat-technologique-1916#sti2d) (*sciences et Technologies de l'Industrie et du Développement Durable*), option [**SIN**](https://www.albertdemun.eu/formations/lycee/bac-sti2d-sin/) (Système d’Information et Numérique) [aux Lazaristes La Salle](https://www.auxlazaristeslasalle.fr/lycee/nos-offres-de-formation/premiere-et-terminale-technologique/la-serie-sti2d/) à Lyon.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.

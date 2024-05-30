@@ -2,64 +2,58 @@ import type { LaunchpadData } from "~/types";
 
 const launchpadApps: LaunchpadData[] = [
   {
-    id: "flint",
-    title: "Flint",
-    img: "img/icons/launchpad/flint.png",
-    link: "https://github.com/Renovamen/flint"
+    id: "my-cv",
+    title: "Mon CV",
+    img: "img/icons/launchpad/resume.png",
+    link: "https://laubier.me/screenshots/CV_A.pdf"
   },
   {
-    id: "oh-my-cv",
-    title: "Oh, My CV!",
-    img: "https://ohmycv.app/pwa-512x512.png",
-    link: "https://ohmycv.app"
+    id: "pigly-agency",
+    title: "Pigly Agency",
+    img: "img/icons/launchpad/pigly_agency.png",
+    link: "https://piglyagency.fr/"
   },
   {
-    id: "oh-vue-icons",
-    title: "Oh, Vue Icons!",
-    img: "img/icons/launchpad/oh-vue-icons.png",
-    link: "https://oh-vue-icons.js.org"
+    id: "pigly",
+    title: "Pigly",
+    img: "img/icons/launchpad/pigly.png",
+    link: "https://github.com/Martial4034/Pigly"
   },
   {
-    id: "gungnir",
-    title: "Gungnir",
-    img: "img/icons/launchpad/gungnir.png",
-    link: "https://vuepress-theme-gungnir.vercel.app/"
-  },
-  // {
-  //   id: "metallic",
-  //   title: "Metallic",
-  //   img: "img/icons/launchpad/meta.png",
-  //   link: "https://github.com/Renovamen/metallic"
-  // },
-  {
-    id: "what-if",
-    title: "My Notebook",
-    img: "img/icons/launchpad/notebook.png",
-    link: "https://note.zxh.io"
+    id: "vue-form",
+    title: "Formulaire Vue",
+    img: "img/icons/launchpad/vue-form.png",
+    link: "https://github.com/Martial4034/Formulaire"
   },
   {
-    id: "cube",
-    title: "Cube Solver",
-    img: "img/icons/launchpad/cube.png",
-    link: "https://cube.zxh.io/"
+    id: "cass-crout",
+    title: "Cass Crout",
+    img: "img/icons/launchpad/cass_crout.png",
+    link: "https://github.com/Martial4034/Cass-Croute"
   },
   {
-    id: "resume",
-    title: "Résumé",
+    id: "macos-portfolio",
+    title: "Macos Portfolio",
+    img: "/img/ui/whyte-avatar-min.png",
+    link: "https://github.com/Martial4034/macos-portfolio"
+  },
+  {
+    id: "first-portfolio",
+    title: "First Portfolio",
     img: "img/icons/launchpad/resume.png",
     link: "https://resume.zxh.io/"
   },
   {
-    id: "zelda",
-    title: "Webpage for Zelda",
-    img: "img/icons/launchpad/zelda.png",
-    link: "https://zelda.zxh.io/"
+    id: "old-portfolio",
+    title: "Old Portfolio",
+    img: "img/icons/launchpad/logo.ico",
+    link: "https://martial-portfolio.web.app/"
   },
   {
-    id: "fishmail",
-    title: "Fishmail",
-    img: "img/icons/launchpad/fishmail.png",
-    link: "https://fishmail.vercel.app/"
+    id: "linkedin2",
+    title: "Linkedin",
+    img: "img/sites/linkedin.svg",
+    link: "https://www.linkedin.com/in/martial-laubier-4979a5267/"
   }
 ];
 

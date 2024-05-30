@@ -11,6 +11,6 @@ Contact me by:
 
 ## CV
 
-- Normal version: [French](https://laubier.me/screenshots/CV-orangecyberdéfense.pdf) 
+- Normal version: [French](https://laubier.me/screenshots/CV_A.pdf) 
 
 - Interesting version: [laubier.me](https://laubier.me)

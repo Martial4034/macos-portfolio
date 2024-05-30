@@ -24,7 +24,7 @@ et oui c'était **marrant !**
 
 ### Stage Macross Informatique
 
-**16 ans**, je suis en première, et je réalise un stage à [*Macross Informatique*](https://macross.fr/).
+**15 ans**, je suis en première, et je réalise un stage à [*Macross Informatique*](https://macross.fr/).
 Là bas je monte, démonte et répare tout type de P.C, tout la journée.
 J'ai apris à maitrisé à fond tout le côté hardware de l'informatique, c'était une très bonne experience mais j'en ai conclu que *je ne veux pas faire ça de ma vie*.
 

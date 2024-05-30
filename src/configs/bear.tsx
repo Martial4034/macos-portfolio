@@ -61,7 +61,7 @@ const bear: BearData[] = [
       {
         id: "cass-croute",
         title: "Cass-Croute",
-        file: "https://github.com/Martial4034/Cass-Croute/edit/main/README.md",
+        file: "https://raw.githubusercontent.com/Martial4034/Cass-Croute/main/README.md",
         icon: "i-icon-park-outline:heavy-metal",
         excerpt: "À 15 ans, j’ai créé Cass-Croute, une plateform...",
         link: "https://github.com/Martial4034/Cass-Croute"
