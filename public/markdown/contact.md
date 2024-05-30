@@ -13,4 +13,4 @@ Contact me by:
 
 - Normal version: [French](https://laubier.me/screenshots/CV-orangecyberdéfense.pdf) 
 
-- Interesting version: [portfolio.zxh.me](https://laubier.me)
+- Interesting version: [laubier.me](https://laubier.me)
