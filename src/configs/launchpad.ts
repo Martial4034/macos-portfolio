@@ -8,6 +8,12 @@ const launchpadApps: LaunchpadData[] = [
     link: "https://laubier.me/screenshots/CV_A.pdf"
   },
   {
+    id: "agence-le-home",
+    title: "Agence le Home",
+    img: "img/icons/launchpad/agence_le_home_logo.png",
+    link: "https://www.agencelehome.fr/"
+  },
+  {
     id: "pigly-agency",
     title: "Pigly Agency",
     img: "img/icons/launchpad/pigly_agency.png",
@@ -36,12 +42,6 @@ const launchpadApps: LaunchpadData[] = [
     title: "Macos Portfolio",
     img: "/img/ui/whyte-avatar-min.png",
     link: "https://github.com/Martial4034/macos-portfolio"
-  },
-  {
-    id: "first-portfolio",
-    title: "First Portfolio",
-    img: "img/icons/launchpad/resume.png",
-    link: "https://resume.zxh.io/"
   },
   {
     id: "old-portfolio",

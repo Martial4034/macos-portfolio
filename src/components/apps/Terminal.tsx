@@ -342,7 +342,7 @@ export default class Terminal extends React.Component<{}, TerminalState> {
       <div key={`terminal-input-row-${id}`} flex>
         <div className="w-max hstack space-x-1.5">
           <span text-yellow-200>
-            zou@macbook-pro <span text-green-300>{this.getCurDirName()}</span>
+          martial@macbook-pro <span text-green-300>{this.getCurDirName()}</span>
           </span>
           <span text-red-400>{">"}</span>
         </div>
@@ -377,7 +377,7 @@ export default class Terminal extends React.Component<{}, TerminalState> {
           <HowDare setRMRF={(value: boolean) => this.setState({ rmrf: value })} />
         )}
         <div p="y-2 x-1.5">
-          <span className="text-green-300">ヽ(ˋ▽ˊ)ノ</span>: Hey, you found the terminal!
+          <span className="text-green-300">ヽ(ˋ▽ˊ)ノ</span>: Hey, bienvenu sur le terminal!
           Type `help` to get started.
         </div>
         <div id="terminal-content" p="x-1.5 b-2">

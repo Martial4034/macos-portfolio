@@ -1,5 +1,13 @@
 # Experiences
 
+## 06-07 2024
+
+### Stage à Teamwork
+
+J'ai réalisé mon stage dans le cadre du BTS SIO, de 5 semaines à  [Teamwork.net](https://www.teamwork.net/).
+Mon rapport de stage : 
+- [French](https://laubier.me/rapports/RapportDeStageTeamWork.pdf) 
+
 ## 2022-2024
 
 ### Ma première boite

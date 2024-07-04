@@ -13,8 +13,8 @@ const terminal: TerminalData[] = [
         content: (
           <div className="py-1">
             <div>
-              Hi, this is Xiaohan Zou. I am a PhD student at the Computer Science and
-              Engineering department of Pennsylvania State University.
+              Salut, si t'es arrivé jusqu'ici c'est que tu est vraiment intéressé par mon profil.
+              Je suis à la recherche d'un stage de recherche pour 8 semaine en mai 2024.
             </div>
           </div>
         )
