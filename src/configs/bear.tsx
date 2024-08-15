@@ -10,7 +10,7 @@ const bear: BearData[] = [
         id: "about-me",
         title: "Présentation",
         file: "markdown/about-me.md",
-        icon: "i-la:dragon",
+        icon: "i-heroicons-outline:information-circle",
         excerpt: "Salut ! Je me présente, moi c'est Ma..."
       },
       {
@@ -35,12 +35,28 @@ const bear: BearData[] = [
     icon: "i-octicon:repo",
     md: [
       {
+        id: "oxelta-sondage",
+        title: "Oxelta Sondage",
+        file: "https://raw.githubusercontent.com/Martial4034/Oxelta_Sondage/main/README.md",
+        icon: "i-heroicons-outline:briefcase",
+        excerpt: "À 18 ans, j'ai fait ma deuxième prestation pour une start-up...",
+        link: "https://www.oxelta.io/"
+      },
+      {
         id: "agence-le-home",
         title: "Agence le Home",
         file: "https://raw.githubusercontent.com/Martial4034/Agence-le-Home/main/README.md",
         icon: "i-heroicons-outline:home",
         excerpt: "À 18 ans, j'ai refondé l'agence immobilière de mes parents...",
         link: "https://www.agencelehome.fr/"
+      },
+      {
+        id: "pigly",
+        title: "Pigly Mobile App",
+        file: "https://raw.githubusercontent.com/Martial4034/Pigly/main/README.md",
+        icon: "i-akar-icons:sword",
+        excerpt: "À 17 ans, on développe Pigly, une appli mobile...",
+        link: "https://vuepress-theme-gungnir.vercel.app"
       },
       {
         id: "pigly-agency",
@@ -57,14 +73,6 @@ const bear: BearData[] = [
         icon: "i-ri:gamepad-line",
         excerpt: "Un devoir donné durant le BTS SIO...",
         link: "https://github.com/Martial4034/Formulaire"
-      },
-      {
-        id: "pigly",
-        title: "Pigly Mobile App",
-        file: "https://raw.githubusercontent.com/Martial4034/Pigly/main/README.md",
-        icon: "i-akar-icons:sword",
-        excerpt: "À 17 ans, on développe Pigly, une appli mobile...",
-        link: "https://vuepress-theme-gungnir.vercel.app"
       },
       {
         id: "cass-croute",
