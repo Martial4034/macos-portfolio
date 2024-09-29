@@ -3,10 +3,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "next build && next-sitemap",
+    "build": "vite build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "postbuild": "next-sitemap",
     "dev": "vite --host",
     "lint": "eslint .",
     "prepare": "husky",
