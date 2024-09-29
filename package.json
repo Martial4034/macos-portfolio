@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "vite build && next-sitemap --config next-sitemap.config.cjs",
+    "build": "vite build && next-sitemap",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "postbuild": "next-sitemap",
