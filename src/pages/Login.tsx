@@ -65,7 +65,7 @@ export default function Login(props: MacActions) {
       {/* buttons */}
       <div className="text-sm fixed bottom-16 inset-x-0 mx-auto flex flex-row space-x-4 w-max">
         <div
-          className="hstack flex-col text-white w-24 cursor-pointer"
+          className="hstack flex-col text-white w-24 "
           onClick={(e) => props.sleepMac(e)}
         >
           <div className="flex-center size-10 bg-gray-700 rounded-full">

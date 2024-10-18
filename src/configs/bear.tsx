@@ -14,6 +14,13 @@ const bear: BearData[] = [
         excerpt: "Salut ! Je me présente, moi c'est Ma..."
       },
       {
+        id: "competence-e5",
+        title: "Compétences E5",
+        file: "markdown/competenceE4.md",
+        icon: "i-heroicons-outline:academic-cap",
+        excerpt: "BTS SIO SISR Tableau de synthèse ..."
+      },
+      {
         id: "contact-me",
         title: "Contactez moi",
         file: "markdown/contact.md",
@@ -35,11 +42,19 @@ const bear: BearData[] = [
     icon: "i-octicon:repo",
     md: [
       {
+        id: "bisou-rivage",
+        title: "BisouRivage",
+        file: "https://raw.githubusercontent.com/Martial4034/BisouRivage/refs/heads/main/README.md",
+        icon: "i-heroicons-outline:briefcase",
+        excerpt: "À 18 ans j'ai réalisé une Marketplace 'Bisourivage' pour un client",
+        link: "https://bisourivage.fr/"
+      },
+      {
         id: "oxelta-sondage",
         title: "Oxelta Sondage",
         file: "https://raw.githubusercontent.com/Martial4034/Oxelta_Sondage/main/README.md",
         icon: "i-heroicons-outline:briefcase",
-        excerpt: "À 18 ans, j'ai fait ma deuxième prestation pour une start-up...",
+        excerpt: "À 18 ans, j'ai fait une prestation pour une start-up 'oxelta'...",
         link: "https://www.oxelta.io/"
       },
       {
@@ -47,7 +62,7 @@ const bear: BearData[] = [
         title: "Agence le Home",
         file: "https://raw.githubusercontent.com/Martial4034/Agence-le-Home/main/README.md",
         icon: "i-heroicons-outline:home",
-        excerpt: "À 18 ans, j'ai refondé l'agence immobilière de mes parents...",
+        excerpt: "À 18 ans, j'ai refondé l'agence immobilière 'Le Home'...",
         link: "https://www.agencelehome.fr/"
       },
       {
@@ -55,7 +70,7 @@ const bear: BearData[] = [
         title: "Pigly Mobile App",
         file: "https://raw.githubusercontent.com/Martial4034/Pigly/main/README.md",
         icon: "i-akar-icons:sword",
-        excerpt: "À 17 ans, on développe Pigly, une appli mobile...",
+        excerpt: "À 17 ans, on développe Pigly, une appli mobile pour trouvé des restaurants...",
         link: "https://vuepress-theme-gungnir.vercel.app"
       },
       {

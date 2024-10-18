@@ -8,6 +8,12 @@ const launchpadApps: LaunchpadData[] = [
     link: "https://laubier.me/screenshots/CV_A.pdf"
   },
   {
+    id: "bisou-rivage",
+    title: "BisouRivage",
+    img: "img/icons/launchpad/bisourivage.jpg",
+    link: "https://bisourivage.fr/"
+  },
+  {
     id: "sondage-de-oxelta",
     title: "Sondage Oxleta",
     img: "img/icons/launchpad/oxelta.png",
