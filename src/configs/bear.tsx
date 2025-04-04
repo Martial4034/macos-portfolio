@@ -7,18 +7,18 @@ const bear: BearData[] = [
     icon: "i-heroicons-outline:computer-desktop",
     md: [
       {
-        id: "about-me",
-        title: "Présentation",
-        file: "markdown/about-me.md",
-        icon: "i-heroicons-outline:information-circle",
-        excerpt: "Salut ! Je me présente, moi c'est Ma..."
-      },
-      {
         id: "competence-e5",
         title: "Compétences E5",
         file: "markdown/competenceE4.md",
         icon: "i-heroicons-outline:academic-cap",
         excerpt: "BTS SIO SISR Tableau de synthèse ..."
+      },
+      {
+        id: "about-me",
+        title: "Présentation",
+        file: "markdown/about-me.md",
+        icon: "i-heroicons-outline:information-circle",
+        excerpt: "Salut ! Je me présente, moi c'est Ma..."
       },
       {
         id: "contact-me",
