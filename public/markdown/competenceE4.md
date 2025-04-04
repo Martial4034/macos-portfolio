@@ -1,12 +1,16 @@
 # BTS SIO option SISR
 
-## Tableau de synthèse des compétences
+## Tableau de synthèse des compétences 
 
 | **Compétences mises en œuvre**                             | **Réalisation en cours de formation** | **Réalisations en milieu professionnel en cours de première année** | **Réalisations en milieu professionnel en cours de seconde année** |
 | ---------------------------------------------------------- | ------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------- |
-| **Gérer le patrimoine informatique**                       |                                |                                                                    |                                                                   |
-| **Répondre aux incidents et aux demandes d'assistance et d'évolution** |                                       |                                                                    |                                                                   |
-| **Développer la présence en ligne de l'organisation**      |                 [DreamStream](/markdown/competences/preuve_presence_en_ligne_compressed_compressed.pdf)                      |                                                                    |                              [BisouRivage](https://github.com/Martial4034/BisouRivage/blob/main/README.md)                                     |
-| **Travailler en mode projet**                              |                  [FigFactor](/markdown/competences/travailler_en_mode_projet_compressed.pdf)                     |                                                                    |                                                                   |
-| **Mettre à disposition des utilisateurs un service informatique** |                            |           [SSL Checker](/markdown/competences/preuve_service_compressed.pdf)                                                                    |                                                                   |
-| **Organiser son développement professionnel**              |                                       |                                                                    |                                                                   |
+| **Gérer le patrimoine informatique**                       |                                |                                                                    |                                        [FlappyOxo](https://1drv.ms/p/c/481c90b56a24dfe4/ETitCcvgDhVAnvz3xUztaekBZ3x3lt30Jm2tEMXX_fXACg)                           |
+| **Répondre aux incidents et aux demandes d'assistance et d'évolution** |                                       |             [Itop](https://1drv.ms/p/c/481c90b56a24dfe4/EQaqMNHNB0xAvztAaP5KjhoB8zJf0RYA8HWzEY_FU3nmfw)                                                       |                                                                   |
+| **Développer la présence en ligne de l'organisation**      |                                       |                                                                    |         [AgenceLeHome](https://1drv.ms/p/c/481c90b56a24dfe4/Ec0J6hnz3oZMrpS6q9672I8B6ZjAxYkyfWZhr71kxpuRgQ)                                                          |
+| **Travailler en mode projet**                              |                                       |                                                                    |                            [Gestion de projet](https://1drv.ms/p/c/481c90b56a24dfe4/EawLijUNbCRIqzWD5sAy6V8Be-0ojZ5p1VbIy8FpuykWyw)                                       |
+| **Mettre à disposition des utilisateurs un service informatique** |                            |           [SSL Checker](https://1drv.ms/p/c/481c90b56a24dfe4/ERbG7chVNy1MkSm_rH4h8psBK4cqTAeFFNJb_fDNiFOOng)                                                                    |                                                                   |
+| **Organiser son développement professionnel**              |             [Martial Laubier](https://1drv.ms/p/c/481c90b56a24dfe4/Edd4SETCpKlDpih1ADSaxToBJXD_3ouQcSARXBCU_057sg)                          |                                                                    |                                                                   |
+
+
+
+[Télécharger le tableau](https://1drv.ms/x/c/481c90b56a24dfe4/EWQ21yQ2a9FLldoD6Je0DhgBLl6iTtVM9CpsQpRXc0FjTQ)

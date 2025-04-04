@@ -2,7 +2,7 @@
 
 
 ## Je me présente :
-> J'ai **18 ans**, je m'appelle **Martial Laubier**, et je suis **Français**.
+> J'ai **19 ans**, je m'appelle **Martial Laubier**, et je suis **Français**.
 
 Actuellement étudiant [chez les **Chartreux**](https://www.leschartreux.com/formations-superieures-diplomantes/nos-diplomes/bts-sio-services-informatiques-aux-organisations), en [**BTS SIO**](https://www.studyrama.com/formations/diplomes/bts/tous-les-bts-en-fiches/bts-sio-services-informatiques-aux-organisations-320) (Services Informatiques aux Organisations) avec l'option [**SISR**](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/bts-services-informatiques-aux-organisations-option-a-solutions-d-infrastructure-systemes-et-reseaux) à Lyon.
 

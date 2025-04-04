@@ -17,7 +17,7 @@ const launchpadApps: LaunchpadData[] = [
     id: "sondage-de-oxelta",
     title: "Sondage Oxleta",
     img: "img/icons/launchpad/oxelta.png",
-    link: "https://sondage.oxelta.io/"
+    link: "https://oxelta-sondage.vercel.app/"
   },
   {
     id: "agence-le-home",
